@@ -1,0 +1,2 @@
+# DefyingCommonSense
+Knowledge extraction project
